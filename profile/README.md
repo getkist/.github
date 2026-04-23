@@ -49,6 +49,19 @@ kist --config kist.yml
 | [@getkist/action-tsup](https://github.com/getkist/kist-action-tsup) | Bundle with tsup |
 | [@getkist/action-svg](https://github.com/getkist/kist-action-svg) | SVG sprite generation |
 | [@getkist/action-nunjucks](https://github.com/getkist/kist-action-nunjucks) | Nunjucks template rendering |
+| [@getkist/action-tsdown](https://github.com/getkist/kist-action-tsdown) | Bundle with tsdown/Rolldown |
+| [@getkist/action-fantasticon](https://github.com/getkist/kist-action-fantasticon) | Icon font generation |
+
+### 🤝 Contributing
+
+We welcome contributions! Here's how you can help:
+
+- 🐛 **Report bugs** - [Open an issue](https://github.com/getkist/kist/issues/new)
+- 💡 **Suggest features** - [Start a discussion](https://github.com/getkist/kist/discussions)
+- 🔌 **Create plugins** - Use our [plugin template](https://github.com/getkist/kist-action-template)
+- 📝 **Improve docs** - PRs welcome!
+
+Look for issues labeled [`good first issue`](https://github.com/getkist/kist/labels/good%20first%20issue) to get started.
 
 ### 🔗 Links
 

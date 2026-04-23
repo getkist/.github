@@ -1,0 +1,125 @@
+# GitHub Labels Configuration
+# These labels are synced across all repositories in the organization
+# Use with: github/labeler action or manually apply via API
+
+# Issue Types
+- name: "bug"
+  color: "d73a4a"
+  description: "Something isn't working"
+
+- name: "feature"
+  color: "a2eeef"
+  description: "New feature or request"
+
+- name: "enhancement"
+  color: "84b6eb"
+  description: "Improvement to existing functionality"
+
+- name: "documentation"
+  color: "0075ca"
+  description: "Improvements or additions to documentation"
+
+- name: "question"
+  color: "d876e3"
+  description: "Further information is requested"
+
+# Difficulty Levels
+- name: "good first issue"
+  color: "7057ff"
+  description: "Good for newcomers"
+
+- name: "help wanted"
+  color: "008672"
+  description: "Extra attention is needed"
+
+- name: "difficulty: easy"
+  color: "c2e0c6"
+  description: "Easy to tackle, good for beginners"
+
+- name: "difficulty: medium"
+  color: "fef2c0"
+  description: "Requires some familiarity with the codebase"
+
+- name: "difficulty: hard"
+  color: "f9d0c4"
+  description: "Complex issue requiring deep knowledge"
+
+# Priority
+- name: "priority: critical"
+  color: "b60205"
+  description: "Must be addressed immediately"
+
+- name: "priority: high"
+  color: "d93f0b"
+  description: "Should be addressed soon"
+
+- name: "priority: medium"
+  color: "fbca04"
+  description: "Normal priority"
+
+- name: "priority: low"
+  color: "0e8a16"
+  description: "Nice to have, but not urgent"
+
+# Status
+- name: "status: in progress"
+  color: "1d76db"
+  description: "Currently being worked on"
+
+- name: "status: needs review"
+  color: "6f42c1"
+  description: "Ready for review"
+
+- name: "status: blocked"
+  color: "b60205"
+  description: "Blocked by another issue or external factor"
+
+- name: "status: wontfix"
+  color: "ffffff"
+  description: "This will not be worked on"
+
+- name: "status: duplicate"
+  color: "cfd3d7"
+  description: "This issue or PR already exists"
+
+# Component Labels
+- name: "core"
+  color: "5e4d34"
+  description: "Related to kist core functionality"
+
+- name: "plugin"
+  color: "bfd4f2"
+  description: "Related to kist plugins/actions"
+
+- name: "cli"
+  color: "ffc0cb"
+  description: "Related to CLI interface"
+
+- name: "config"
+  color: "c5def5"
+  description: "Related to configuration"
+
+- name: "testing"
+  color: "bfdadc"
+  description: "Related to tests and testing infrastructure"
+
+- name: "ci/cd"
+  color: "ededed"
+  description: "Related to CI/CD workflows"
+
+- name: "dependencies"
+  color: "0366d6"
+  description: "Related to dependencies"
+
+# Special
+- name: "breaking change"
+  color: "ee0701"
+  description: "Introduces breaking changes"
+
+- name: "needs triage"
+  color: "e4e669"
+  description: "Needs to be triaged and labeled"
+
+- name: "hacktoberfest"
+  color: "ff7518"
+  description: "Hacktoberfest contribution"

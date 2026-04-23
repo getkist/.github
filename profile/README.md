@@ -38,7 +38,7 @@ kist --config kist.yml
 ### 📦 Official Plugins
 
 | Plugin | Description |
-|--------|-------------|
+| -------- | ------------- |
 | [@getkist/action-sass](https://github.com/getkist/kist-action-sass) | SCSS/Sass compilation |
 | [@getkist/action-postcss](https://github.com/getkist/kist-action-postcss) | PostCSS processing with autoprefixer |
 | [@getkist/action-typescript](https://github.com/getkist/kist-action-typescript) | TypeScript compilation |

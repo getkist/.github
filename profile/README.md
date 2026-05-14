@@ -73,5 +73,5 @@ Look for issues labeled [`good first issue`](https://github.com/getkist/kist/lab
 ---
 
 <p align="center">
-    <b>Made with ❤️ by <a href="https://www.scape.agency" target="_blank">Scape Agency</a></b>
+    <b>Made with ❤️ by <a href="https://www.scape.press" target="_blank">Scape Press</a></b>
 </p>
